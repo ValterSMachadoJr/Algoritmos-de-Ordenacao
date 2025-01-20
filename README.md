@@ -1,2 +1,2 @@
 # Algoritmos-de-Ordenacao
-Selection sort, Quick Sort, Busca Binário etc
+Selection sort, Quick Sort, Busca Binário, javaScrit OO
